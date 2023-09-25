@@ -1,0 +1,2 @@
+From Parent process.
+From Child process.

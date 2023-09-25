@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yufei/Desktop/5600 assignment2",
+      "program": "/Users/yufei/Desktop/5600 assignment2/build/Debug/outDebug"
+    }
+  ]
+}
